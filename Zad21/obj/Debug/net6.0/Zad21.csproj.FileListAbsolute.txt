@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/bin/Debug/net6.0/Zad21
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/bin/Debug/net6.0/Zad21.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/bin/Debug/net6.0/Zad21.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/bin/Debug/net6.0/Zad21.dll
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/bin/Debug/net6.0/Zad21.pdb
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/obj/Debug/net6.0/Zad21.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/obj/Debug/net6.0/Zad21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/obj/Debug/net6.0/Zad21.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/obj/Debug/net6.0/Zad21.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/obj/Debug/net6.0/Zad21.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/obj/Debug/net6.0/Zad21.dll
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/obj/Debug/net6.0/refint/Zad21.dll
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/obj/Debug/net6.0/Zad21.pdb
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/obj/Debug/net6.0/Zad21.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad21/obj/Debug/net6.0/ref/Zad21.dll
