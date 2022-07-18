@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/obj/Debug/net6.0/Zad19.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/obj/Debug/net6.0/Zad19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/obj/Debug/net6.0/Zad19.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/obj/Debug/net6.0/Zad19.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/obj/Debug/net6.0/Zad19.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/bin/Debug/net6.0/Zad19
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/bin/Debug/net6.0/Zad19.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/bin/Debug/net6.0/Zad19.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/bin/Debug/net6.0/Zad19.dll
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/bin/Debug/net6.0/Zad19.pdb
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/obj/Debug/net6.0/Zad19.dll
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/obj/Debug/net6.0/refint/Zad19.dll
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/obj/Debug/net6.0/Zad19.pdb
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/obj/Debug/net6.0/Zad19.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Zad19/obj/Debug/net6.0/ref/Zad19.dll
