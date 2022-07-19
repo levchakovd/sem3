@@ -1,0 +1,15 @@
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/obj/Debug/net6.0/Secmax.csproj.AssemblyReference.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/obj/Debug/net6.0/Secmax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/obj/Debug/net6.0/Secmax.AssemblyInfoInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/obj/Debug/net6.0/Secmax.AssemblyInfo.cs
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/obj/Debug/net6.0/Secmax.csproj.CoreCompileInputs.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/bin/Debug/net6.0/Secmax
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/bin/Debug/net6.0/Secmax.deps.json
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/bin/Debug/net6.0/Secmax.runtimeconfig.json
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/bin/Debug/net6.0/Secmax.dll
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/bin/Debug/net6.0/Secmax.pdb
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/obj/Debug/net6.0/Secmax.dll
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/obj/Debug/net6.0/refint/Secmax.dll
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/obj/Debug/net6.0/Secmax.pdb
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/obj/Debug/net6.0/Secmax.genruntimeconfig.cache
+/Users/denislevchakov/Desktop/C# Seminars/seminar3/Secmax/obj/Debug/net6.0/ref/Secmax.dll
